@@ -1,1 +1,1 @@
-It was an exercice to train Vectors in C++.
+It was an exercise to train Vectors in C++.
